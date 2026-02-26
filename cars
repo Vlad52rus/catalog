@@ -1,0 +1,242 @@
+[
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "1.2 TFSI 86",
+    "power": "86",
+    "torque": "160",
+    "powerAfter": "130",
+    "torqueAfter": "225"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "1.4 TFSI 122",
+    "power": "122",
+    "torque": "200",
+    "powerAfter": "145",
+    "torqueAfter": "260"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "2.0 TFSI 256",
+    "power": "256",
+    "torque": "350",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "1.6 TDI 90",
+    "power": "90",
+    "torque": "230",
+    "powerAfter": "135",
+    "torqueAfter": "310"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "1.6 TDI 105",
+    "power": "105",
+    "torque": "250",
+    "powerAfter": "135",
+    "torqueAfter": "310"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2010-2014",
+    "engine": "2.0 TDI 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2015-2018",
+    "engine": "1.0 TFSI 95",
+    "power": "95",
+    "torque": "160",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2015-2018",
+    "engine": "1.4 TFSI 125",
+    "power": "125",
+    "torque": "200",
+    "powerAfter": "160",
+    "torqueAfter": "265"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2015-2018",
+    "engine": "1.8 TFSI 192",
+    "power": "192",
+    "torque": "250",
+    "powerAfter": "235",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2015-2018",
+    "engine": "1.4 TDI 90",
+    "power": "90",
+    "torque": "230",
+    "powerAfter": "115",
+    "torqueAfter": "290"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2015-2018",
+    "engine": "1.6 TDI 116",
+    "power": "116",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2018-",
+    "engine": "1.0 TFSI 95",
+    "power": "95",
+    "torque": "160",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2018-",
+    "engine": "1.0 TFSI 116",
+    "power": "116",
+    "torque": "200",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2018-",
+    "engine": "1.5 TFSI 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "180",
+    "torqueAfter": "315"
+  },
+  {
+    "make": "Audi",
+    "model": "A1",
+    "year": "2018-",
+    "engine": "2.0 TSFI 200",
+    "power": "200",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.2 TFSI 105",
+    "power": "105",
+    "torque": "175",
+    "powerAfter": "130",
+    "torqueAfter": "225"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.2 TFSI 110",
+    "power": "110",
+    "torque": "175",
+    "powerAfter": "130",
+    "torqueAfter": "225"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.4 TFSI 125",
+    "power": "125",
+    "torque": "200",
+    "powerAfter": "160",
+    "torqueAfter": "265"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.8 TFSI 160",
+    "power": "160",
+    "torque": "250",
+    "powerAfter": "210",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "2.0 TFSI 200",
+    "power": "200",
+    "torque": "280",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.6 TDI 105",
+    "power": "105",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "1.9 TDI 105",
+    "power": "105",
+    "torque": "250",
+    "powerAfter": "150",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "2.0 TDI 140",
+    "power": "140",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2008-2012",
+    "engine": "2.0 TDI 170",
+    "power": "170",
+    "torque": "350",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  }
+]

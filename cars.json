@@ -238,5 +238,2895 @@
     "torque": "350",
     "powerAfter": "210",
     "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "1.4 TFSI 122",
+    "power": "122",
+    "torque": "200",
+    "powerAfter": "145",
+    "torqueAfter": "260"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "1.4 TFSI 125",
+    "power": "125",
+    "torque": "200",
+    "powerAfter": "160",
+    "torqueAfter": "265"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "1.8 TFSI 180",
+    "power": "180",
+    "torque": "250",
+    "powerAfter": "235",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "2.0 TFSI 220",
+    "power": "220",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "1.6 TDI 105",
+    "power": "105",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "1.6 TDI 110",
+    "power": "110",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "2.0 TDI 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2012-2016",
+    "engine": "2.0 TDI 184",
+    "power": "184",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "1.0 TFSI 116",
+    "power": "116",
+    "torque": "200",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "1.5 TFSI 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "180",
+    "torqueAfter": "315"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 220",
+    "power": "220",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "1.6 TDI 110",
+    "power": "110",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "1.6 TDI 116",
+    "power": "116",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 184",
+    "power": "184",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "30 TFSI 1.0 116",
+    "power": "116",
+    "torque": "200",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "35 TFSI 1.5 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "180",
+    "torqueAfter": "315"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "30 TDI 2.0 115",
+    "power": "115",
+    "torque": "280",
+    "powerAfter": "195",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "35 TDI 2.0 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "195",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A3",
+    "year": "2020-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "1.8 TFSI 120",
+    "power": "120",
+    "torque": "230",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "1.8 TFSI 160",
+    "power": "160",
+    "torque": "250",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "1.8 TFSI 170",
+    "power": "170",
+    "torque": "230",
+    "powerAfter": "200",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "3.2 FSI 265",
+    "power": "265",
+    "torque": "330",
+    "powerAfter": "290",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TDI 120",
+    "power": "120",
+    "torque": "290",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TDI 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TDI 170",
+    "power": "170",
+    "torque": "350",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2007-2011",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "1.8 TFSI 120",
+    "power": "120",
+    "torque": "230",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "1.8 TFSI 170",
+    "power": "170",
+    "torque": "320",
+    "powerAfter": "240",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TFSI 225",
+    "power": "225",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "3.0 TFSI 272",
+    "power": "272",
+    "torque": "400",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 120",
+    "power": "120",
+    "torque": "290",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 177",
+    "power": "177",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2011-2015",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TFSI 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TFSI 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TFSI 252",
+    "power": "252",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TDI 122",
+    "power": "122",
+    "torque": "270",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "3.0 TDI 218",
+    "power": "218",
+    "torque": "500",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2015-2019",
+    "engine": "3.0 TDI 272",
+    "power": "272",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "35 TFSI 2.0 150",
+    "power": "150",
+    "torque": "270",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "30 TDI 2.0 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "35 TDI 2.0 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": "2019-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "1.8 TFSI 160",
+    "power": "160",
+    "torque": "250",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "1.8 TFSI 170",
+    "power": "170",
+    "torque": "250",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "3.2 FSI 250",
+    "power": "250",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "3.2 FSI 265",
+    "power": "265",
+    "torque": "330",
+    "powerAfter": "290",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "2.0 TDI 170",
+    "power": "170",
+    "torque": "350",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "2.7 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2007-2011",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "1.8 TFSI 144",
+    "power": "144",
+    "torque": "280",
+    "powerAfter": "220",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "1.8 TFSI 170",
+    "power": "170",
+    "torque": "320",
+    "powerAfter": "240",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "1.8 TFSI 177",
+    "power": "177",
+    "torque": "320",
+    "powerAfter": "240",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TFSI 225",
+    "power": "225",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TFSI 230",
+    "power": "230",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "3.0 TFSI 272",
+    "power": "272",
+    "torque": "400",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TDI 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TDI 163",
+    "power": "163",
+    "torque": "400",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TDI 177",
+    "power": "177",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2011-2016",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "550",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 252",
+    "power": "252",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "3.0 TDI 218",
+    "power": "218",
+    "torque": "500",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2016-2019",
+    "engine": "3.0 TDI 272",
+    "power": "272",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "35 TFSI 2.0 150",
+    "power": "150",
+    "torque": "270",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "35 TDI 2.0 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": "2019-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.0 TFSI 170",
+    "power": "170",
+    "torque": "280",
+    "powerAfter": "255",
+    "torqueAfter": "390"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.8 FSI 190",
+    "power": "190",
+    "torque": "280",
+    "powerAfter": "215",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.8 FSI 220",
+    "power": "220",
+    "torque": "280",
+    "powerAfter": "245",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "3.0 TFSI 290",
+    "power": "290",
+    "torque": "420",
+    "powerAfter": "400",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "4.2 FSI 350",
+    "power": "350",
+    "torque": "440",
+    "powerAfter": "370",
+    "torqueAfter": "465"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.0 TDI 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.0 TDI 170",
+    "power": "170",
+    "torque": "350",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "2.7 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "235",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2008-2011",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "1.8 TFSI 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "200",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "1.8 TFSI 160",
+    "power": "160",
+    "torque": "250",
+    "powerAfter": "215",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.8 FSI 204",
+    "power": "204",
+    "torque": "280",
+    "powerAfter": "230",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 TFSI 300",
+    "power": "300",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 TFSI 310",
+    "power": "310",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 140",
+    "power": "140",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 177",
+    "power": "177",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2011-2014",
+    "engine": "3.0 Bi TDI 313",
+    "power": "313",
+    "torque": "650",
+    "powerAfter": "350",
+    "torqueAfter": "730"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "1.8 TFSI 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "240",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "2.0 TFSI 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "2.0 TFSI 252",
+    "power": "252",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "2.8 FSI 220",
+    "power": "220",
+    "torque": "280",
+    "powerAfter": "245",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 TFSI 333",
+    "power": "333",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "350",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 218",
+    "power": "218",
+    "torque": "500",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "550",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 272",
+    "power": "272",
+    "torque": "580",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 Bi TDI 320",
+    "power": "320",
+    "torque": "650",
+    "powerAfter": "405",
+    "torqueAfter": "760"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2014-2018",
+    "engine": "3.0 Bi TDI 326",
+    "power": "326",
+    "torque": "650",
+    "powerAfter": "405",
+    "torqueAfter": "760"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "240",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "55 TFSI 3.0 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "400",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "35 TDI 2.0 163",
+    "power": "163",
+    "torque": "370",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "235",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "40 TDI 2.0 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "235",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": "2018-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "2.8 FSI 204",
+    "power": "204",
+    "torque": "280",
+    "powerAfter": "230",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "3.0 TFSI 300",
+    "power": "300",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "3.0 TFSI 310",
+    "power": "310",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "265",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2010-2014",
+    "engine": "3.0 Bi TDI 313",
+    "power": "313",
+    "torque": "650",
+    "powerAfter": "350",
+    "torqueAfter": "730"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "2.0 TFSI 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "2.8 FSI 220",
+    "power": "220",
+    "torque": "280",
+    "powerAfter": "245",
+    "torqueAfter": "305"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 TFSI 333",
+    "power": "333",
+    "torque": "440",
+    "powerAfter": "420",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 218",
+    "power": "218",
+    "torque": "500",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "550",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 TDI 272",
+    "power": "272",
+    "torque": "580",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 Bi TDI 320",
+    "power": "320",
+    "torque": "650",
+    "powerAfter": "405",
+    "torqueAfter": "760"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2014-2018",
+    "engine": "3.0 Bi TDI 326",
+    "power": "326",
+    "torque": "650",
+    "powerAfter": "405",
+    "torqueAfter": "760"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "55 TFSI 3.0 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "400",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "40 TDI 2.0 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "235",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A7",
+    "year": "2018-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2007-2010",
+    "engine": "3.0 TDI 233",
+    "power": "233",
+    "torque": "450",
+    "powerAfter": "275",
+    "torqueAfter": "540"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2007-2010",
+    "engine": "4.2 TDI 326",
+    "power": "326",
+    "torque": "650",
+    "powerAfter": "370",
+    "torqueAfter": "750"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "3.0 TFSI 290",
+    "power": "290",
+    "torque": "420",
+    "powerAfter": "400",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "4.0 TFSI 420",
+    "power": "420",
+    "torque": "600",
+    "powerAfter": "530",
+    "torqueAfter": "770"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "4.2 FSI 350",
+    "power": "350",
+    "torque": "440",
+    "powerAfter": "370",
+    "torqueAfter": "470"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "4.2 FSI 372",
+    "power": "372",
+    "torque": "445",
+    "powerAfter": "395",
+    "torqueAfter": "470"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "6.0 FSI 450",
+    "power": "450",
+    "torque": "580",
+    "powerAfter": "480",
+    "torqueAfter": "610"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "6.3 FSI 500",
+    "power": "500",
+    "torque": "625",
+    "powerAfter": "530",
+    "torqueAfter": "655"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "265",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "3.0 TDI 250",
+    "power": "250",
+    "torque": "550",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "4.2 TDI 326",
+    "power": "326",
+    "torque": "650",
+    "powerAfter": "370",
+    "torqueAfter": "750"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2010-2014",
+    "engine": "4.2 TDI 350",
+    "power": "350",
+    "torque": "800",
+    "powerAfter": "400",
+    "torqueAfter": "930"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "3.0 TFSI 310",
+    "power": "310",
+    "torque": "440",
+    "powerAfter": "410",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "4.0 TFSI 435",
+    "power": "435",
+    "torque": "600",
+    "powerAfter": "530",
+    "torqueAfter": "770"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "6.3 FSI 500",
+    "power": "500",
+    "torque": "625",
+    "powerAfter": "530",
+    "torqueAfter": "655"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "3.0 TDI 250",
+    "power": "250",
+    "torque": "550",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "3.0 TDI 258",
+    "power": "258",
+    "torque": "580",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2014-2017",
+    "engine": "4.2 TDI 385",
+    "power": "385",
+    "torque": "850",
+    "powerAfter": "450",
+    "torqueAfter": "950"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2018-…",
+    "engine": "55 TFSI 3.0 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "400",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2018-…",
+    "engine": "60 TFSI 4.0 460",
+    "power": "460",
+    "torque": "600",
+    "powerAfter": "550",
+    "torqueAfter": "800"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": "2018-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2016-2019",
+    "engine": "1.0 TFSI 116",
+    "power": "116",
+    "torque": "200",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2016-2019",
+    "engine": "2.0 TFSI 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2016-2019",
+    "engine": "1.6 TDI 116",
+    "power": "116",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "195",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2016-2019",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2019-…",
+    "engine": "30 TFSI 1.0 116",
+    "power": "116",
+    "torque": "200",
+    "powerAfter": "135",
+    "torqueAfter": "240"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2019-…",
+    "engine": "35 TFSI 1.5 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "180",
+    "torqueAfter": "315"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2019-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2019-…",
+    "engine": "30 TDI 1.6 116",
+    "power": "116",
+    "torque": "250",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Audi",
+    "model": "Q2",
+    "year": "2019-…",
+    "engine": "35 TDI 2.0 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "195",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2011-2014",
+    "engine": "2.0 TFSI 170",
+    "power": "170",
+    "torque": "280",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2011-2014",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "300",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 140",
+    "power": "140",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2011-2014",
+    "engine": "2.0 TDI 177",
+    "power": "177",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2014-2018",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2014-2018",
+    "engine": "2.0 TFSI 220",
+    "power": "220",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2014-2018",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "195",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2014-2018",
+    "engine": "2.0 TDI 184",
+    "power": "184",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018-…",
+    "engine": "35 TFSI 1.5 150",
+    "power": "150",
+    "torque": "250",
+    "powerAfter": "180",
+    "torqueAfter": "315"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018-…",
+    "engine": "40 TFSI 2.0 190",
+    "power": "190",
+    "torque": "320",
+    "powerAfter": "260",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018-…",
+    "engine": "45 TFSI 2.0 230",
+    "power": "230",
+    "torque": "350",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018-…",
+    "engine": "35 TDI 2.0 150",
+    "power": "150",
+    "torque": "340",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": "2018-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "2.0 TFSI 211",
+    "power": "211",
+    "torque": "350",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "3.2 FSI 270",
+    "power": "270",
+    "torque": "330",
+    "powerAfter": "290",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "2.0 TDI 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "2.0 TDI 170",
+    "power": "170",
+    "torque": "350",
+    "powerAfter": "210",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2008-2012",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TFSI 180",
+    "power": "180",
+    "torque": "320",
+    "powerAfter": "270",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TFSI 225",
+    "power": "225",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TFSI 230",
+    "power": "230",
+    "torque": "350",
+    "powerAfter": "310",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "3.0 TFSI 272",
+    "power": "272",
+    "torque": "400",
+    "powerAfter": "410",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TDI 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "190",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TDI 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TDI 177",
+    "power": "177",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "2.0 TDI 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "580",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2012-2017",
+    "engine": "3.0 TDI 258",
+    "power": "258",
+    "torque": "580",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "45 TFSI 2.0 252",
+    "power": "252",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "35 TDI 2.0 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "45 TDI 2.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2017-2019",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 245",
+    "power": "245",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "45 TFSI 2.0 249",
+    "power": "249",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "35 TDI 2.0 163",
+    "power": "163",
+    "torque": "370",
+    "powerAfter": "200",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "40 TDI 2.0 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": "2019-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TFSI 272",
+    "power": "272",
+    "torque": "400",
+    "powerAfter": "410",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TFSI 333",
+    "power": "333",
+    "torque": "440",
+    "powerAfter": "410",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.6 FSI 280",
+    "power": "280",
+    "torque": "360",
+    "powerAfter": "300",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TDI 204",
+    "power": "204",
+    "torque": "450",
+    "powerAfter": "290",
+    "torqueAfter": "590"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TDI 233",
+    "power": "233",
+    "torque": "500",
+    "powerAfter": "290",
+    "torqueAfter": "580"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TDI 240",
+    "power": "240",
+    "torque": "550",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "3.0 TDI 245",
+    "power": "245",
+    "torque": "550",
+    "powerAfter": "310",
+    "torqueAfter": "630"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "4.2 TDI 326",
+    "power": "326",
+    "torque": "760",
+    "powerAfter": "375",
+    "torqueAfter": "870"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "4.2 TDI 340",
+    "power": "340",
+    "torque": "760",
+    "powerAfter": "395",
+    "torqueAfter": "870"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2009-2015",
+    "engine": "6.0 TDI 500",
+    "power": "500",
+    "torque": "1000",
+    "powerAfter": "600",
+    "torqueAfter": "1200"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015-2019",
+    "engine": "2.0 TFSI 252",
+    "power": "252",
+    "torque": "370",
+    "powerAfter": "320",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015-2019",
+    "engine": "3.0 TFSI 333",
+    "power": "333",
+    "torque": "440",
+    "powerAfter": "410",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015-2019",
+    "engine": "3.0 TDI 218",
+    "power": "218",
+    "torque": "500",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015-2019",
+    "engine": "3.0 TDI 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2015-2019",
+    "engine": "3.0 TDI 272",
+    "power": "272",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2019-…",
+    "engine": "55 TFSI 3.0 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "400",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2019-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2019-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q7",
+    "year": "2019-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2018-…",
+    "engine": "55 TFSI 3.0 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "400",
+    "torqueAfter": "600"
+  },
+  {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 231",
+    "power": "231",
+    "torque": "500",
+    "powerAfter": "300",
+    "torqueAfter": "620"
+  },
+  {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2018-…",
+    "engine": "45 TDI 3.0 249",
+    "power": "249",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Audi",
+    "model": "Q8",
+    "year": "2018-…",
+    "engine": "50 TDI 3.0 286",
+    "power": "286",
+    "torque": "620",
+    "powerAfter": "350",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "Audi",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
   }
 ]

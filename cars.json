@@ -1,12 +1,182 @@
 [
   {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.8 140",
+    "power": "140",
+    "torque": "163",
+    "powerAfter": "155",
+    "torqueAfter": "180"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.8 200",
+    "power": "200",
+    "torque": "320",
+    "powerAfter": "255",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.9 160",
+    "power": "160",
+    "torque": "190",
+    "powerAfter": "175",
+    "torqueAfter": "210"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "2.2 185",
+    "power": "185",
+    "torque": "230",
+    "powerAfter": "200",
+    "torqueAfter": "255"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "3.2 260",
+    "power": "260",
+    "torque": "322",
+    "powerAfter": "280",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.9 Diesel 115",
+    "power": "115",
+    "torque": "275",
+    "powerAfter": "150",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.9 Diesel 120",
+    "power": "120",
+    "torque": "280",
+    "powerAfter": "155",
+    "torqueAfter": "360"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "1.9 Diesel 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "180",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "159",
+    "year": "2005-2011",
+    "engine": "2.0 Diesel 170",
+    "power": "170",
+    "torque": "360",
+    "powerAfter": "200",
+    "torqueAfter": "425"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "year": "2013-2016",
+    "engine": "1.8 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "255",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "year": "2016-…",
+    "engine": "2.0 200",
+    "power": "200",
+    "torque": "330",
+    "powerAfter": "310",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "year": "2016-…",
+    "engine": "2.0 280",
+    "power": "280",
+    "torque": "400",
+    "powerAfter": "310",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulietta",
+    "year": "2010-2016",
+    "engine": "1.4 170",
+    "power": "170",
+    "torque": "250",
+    "powerAfter": "185",
+    "torqueAfter": "290"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulietta",
+    "year": "2016-2019",
+    "engine": "1.4 170",
+    "power": "170",
+    "torque": "250",
+    "powerAfter": "185",
+    "torqueAfter": "290"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulietta",
+    "year": "2016-2019",
+    "engine": "1.8 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "MiTo",
+    "year": "2008-…",
+    "engine": "1.4 120",
+    "power": "120",
+    "torque": "201",
+    "powerAfter": "150",
+    "torqueAfter": "250"
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "MiTo",
+    "year": "2008-…",
+    "engine": "1.4 155",
+    "power": "155",
+    "torque": "230",
+    "powerAfter": "185",
+    "torqueAfter": "280"
+  },
+  {
     "make": "Audi",
     "model": "A1",
     "year": "2010-2014",
     "engine": "1.2 TFSI 86",
     "power": "86",
     "torque": "160",
-    "powerAfter": "135",
+    "powerAfter": "130",
     "torqueAfter": "225"
   },
   {
@@ -3570,7 +3740,1157 @@
     "torqueAfter": "650"
   },
   {
-    "make": "Audi",
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 125i 211",
+    "power": "211",
+    "torque": "250",
+    "powerAfter": "280",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 125i 218",
+    "power": "218",
+    "torque": "250",
+    "powerAfter": "280",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 130i 258",
+    "power": "258",
+    "torque": "315",
+    "powerAfter": "280",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 130i 265",
+    "power": "265",
+    "torque": "315",
+    "powerAfter": "280",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 135i 306",
+    "power": "306",
+    "torque": "400",
+    "powerAfter": "370",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 120d 177",
+    "power": "177",
+    "torque": "350",
+    "powerAfter": "220",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "E8X LCI | 2007-2011",
+    "engine": "E8X 123d 204",
+    "power": "204",
+    "torque": "400",
+    "powerAfter": "250",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 114i 102",
+    "power": "102",
+    "torque": "180",
+    "powerAfter": "220",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 116i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "220",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 118i 170",
+    "power": "170",
+    "torque": "250",
+    "powerAfter": "220",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 120i 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 125i 218",
+    "power": "218",
+    "torque": "310",
+    "powerAfter": "290",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X M135i 320",
+    "power": "320",
+    "torque": "450",
+    "powerAfter": "390",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 114d 95",
+    "power": "95",
+    "torque": "235",
+    "powerAfter": "160",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 116d 1.6 116",
+    "power": "116",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 116d 2.0 116",
+    "power": "116",
+    "torque": "260",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 118d 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 120d 184",
+    "power": "184",
+    "torque": "380",
+    "powerAfter": "225",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 | 2011-2015",
+    "engine": "F2X 125d 218",
+    "power": "218",
+    "torque": "450",
+    "powerAfter": "270",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 116i 109",
+    "power": "109",
+    "torque": "180",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 118i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 120i 177",
+    "power": "177",
+    "torque": "250",
+    "powerAfter": "220",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 120i 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 120i B48 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 125i 218",
+    "power": "218",
+    "torque": "310",
+    "powerAfter": "290",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 125i 224",
+    "power": "224",
+    "torque": "310",
+    "powerAfter": "300",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X M135i 326",
+    "power": "326",
+    "torque": "450",
+    "powerAfter": "390",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X M140i 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "450",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 116d 116",
+    "power": "116",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 118d 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 120d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F20-F21 LCI | 2015-2019",
+    "engine": "F2X 125d 224",
+    "power": "218",
+    "torque": "450",
+    "powerAfter": "270",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 116i 109",
+    "power": "109",
+    "torque": "180",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 118i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 118i 140",
+    "power": "140",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 M135i 306",
+    "power": "306",
+    "torque": "450",
+    "powerAfter": "340",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 116d 116",
+    "power": "116",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 118d 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "1er",
+    "year": "F40 | 2019-…",
+    "engine": "F40 120d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 218i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 220i 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 220i B48 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 228i 245",
+    "power": "245",
+    "torque": "350",
+    "powerAfter": "290",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 230i 252",
+    "power": "252",
+    "torque": "350",
+    "powerAfter": "290",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 M235i 326",
+    "power": "326",
+    "torque": "450",
+    "powerAfter": "390",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 M240i 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "420",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 218d 143",
+    "power": "143",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 218d 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 220d 184",
+    "power": "184",
+    "torque": "380",
+    "powerAfter": "225",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 220d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 225d 218",
+    "power": "218",
+    "torque": "450",
+    "powerAfter": "270",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 | 2014-2017",
+    "engine": "F22 225d 224",
+    "power": "224",
+    "torque": "450",
+    "powerAfter": "270",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 218i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 220i B48 184",
+    "power": "184",
+    "torque": "270",
+    "powerAfter": "270",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 230i 252",
+    "power": "252",
+    "torque": "350",
+    "powerAfter": "290",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 M240i 340",
+    "power": "340",
+    "torque": "500",
+    "powerAfter": "450",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 218d 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 220d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F22 LCI | 2017-2020",
+    "engine": "F22 225d 224",
+    "power": "218",
+    "torque": "450",
+    "powerAfter": "270",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 218i 136",
+    "power": "136",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 218i 140",
+    "power": "140",
+    "torque": "220",
+    "powerAfter": "180",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 M235i 306",
+    "power": "306",
+    "torque": "450",
+    "powerAfter": "340",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 216d 116",
+    "power": "116",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "340"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 218d 150",
+    "power": "150",
+    "torque": "320",
+    "powerAfter": "200",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "F44 | 2020-…",
+    "engine": "F44 220d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "G42 | 2021-…",
+    "engine": "G42 220i 184",
+    "power": "184",
+    "torque": "300",
+    "powerAfter": "280",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "G42 | 2021-…",
+    "engine": "G42 230i 245",
+    "power": "245",
+    "torque": "400",
+    "powerAfter": "310",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "G42 | 2021-…",
+    "engine": "G42 M240i 387",
+    "power": "384",
+    "torque": "500",
+    "powerAfter": "450",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "BMW",
+    "model": "2er",
+    "year": "G42 | 2021-…",
+    "engine": "G42 220d 190",
+    "power": "190",
+    "torque": "400",
+    "powerAfter": "230",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "E90-E93 LCI | 2008-2011",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 | 2011-2015",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "F30-F31-F34 LCI | 2015-2019",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "3er",
+    "year": "G20 | 2019-…",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3580,7 +4900,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3590,7 +4910,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3600,7 +4920,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3610,7 +4930,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3620,7 +4940,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3630,7 +4950,7 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",
@@ -3640,7 +4960,57 @@
     "torqueAfter": ""
   },
   {
-    "make": "Audi",
+    "make": "BMW",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
+    "model": "",
+    "year": "",
+    "engine": "",
+    "power": "",
+    "torque": "",
+    "powerAfter": "",
+    "torqueAfter": ""
+  },
+  {
+    "make": "BMW",
     "model": "",
     "year": "",
     "engine": "",

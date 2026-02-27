@@ -1,0 +1,17 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    paths:
+      - 'cars.json'  # Срабатывает только при изменении этого файла
+    branches:
+      - main
+
+jobs:
+  purge-cdn:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge cache
+        uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: https://cdn.jsdelivr.net/gh/Vlad52rus/catalog@main/cars.json

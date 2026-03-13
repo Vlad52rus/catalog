@@ -9388,5 +9388,1295 @@
     "torque": "325",
     "powerAfter": "240",
     "torqueAfter": "400"
+  },
+  {
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2017-…",
+    "engine": "2.0 197",
+    "power": "197",
+    "torque": "353",
+    "powerAfter": "280",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2017-…",
+    "engine": "2.0 247",
+    "power": "247",
+    "torque": "353",
+    "powerAfter": "280",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2017-…",
+    "engine": "3.3 370",
+    "power": "370",
+    "torque": "510",
+    "powerAfter": "420",
+    "torqueAfter": "590"
+  },
+  {
+    "make": "Genesis",
+    "model": "G70",
+    "year": "2017-…",
+    "engine": "2.2 Diesel 202",
+    "power": "202",
+    "torque": "440",
+    "powerAfter": "230",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Genesis",
+    "model": "G80",
+    "year": "2016-…",
+    "engine": "2.0 197",
+    "power": "197",
+    "torque": "353",
+    "powerAfter": "280",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Genesis",
+    "model": "G80",
+    "year": "2016-…",
+    "engine": "2.0 245",
+    "power": "245",
+    "torque": "353",
+    "powerAfter": "280",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Genesis",
+    "model": "G80",
+    "year": "2016-…",
+    "engine": "3.3 370",
+    "power": "370",
+    "torque": "510",
+    "powerAfter": "420",
+    "torqueAfter": "590"
+  },
+  {
+    "make": "Genesis",
+    "model": "G90",
+    "year": "2016-…",
+    "engine": "3.3 370",
+    "power": "370",
+    "torque": "510",
+    "powerAfter": "420",
+    "torqueAfter": "590"
+  },
+  {
+    "make": "HAVAL",
+    "model": "Dargo",
+    "year": "2022-…",
+    "engine": "2.0 192",
+    "power": "192",
+    "torque": "320",
+    "powerAfter": "250",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "HAVAL",
+    "model": "F7/F7x",
+    "year": "2019-…",
+    "engine": "1.5t 150",
+    "power": "150",
+    "torque": "280",
+    "powerAfter": "180",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "HAVAL",
+    "model": "F7/F7x",
+    "year": "2019-…",
+    "engine": "2.0t 190",
+    "power": "190",
+    "torque": "340",
+    "powerAfter": "225",
+    "torqueAfter": "440"
+  },
+  {
+    "make": "HAVAL",
+    "model": "Jolion",
+    "year": "2020-…",
+    "engine": "1.5t 143",
+    "power": "143",
+    "torque": "210",
+    "powerAfter": "185",
+    "torqueAfter": "270"
+  },
+  {
+    "make": "HAVAL",
+    "model": "Jolion",
+    "year": "2020-…",
+    "engine": "1.5t 150",
+    "power": "150",
+    "torque": "230",
+    "powerAfter": "190",
+    "torqueAfter": "280"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H9",
+    "year": "2017-…",
+    "engine": "2.0 190",
+    "power": "190",
+    "torque": "420",
+    "powerAfter": "230",
+    "torqueAfter": "510"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H9",
+    "year": "2017-…",
+    "engine": "2.0 218",
+    "power": "218",
+    "torque": "380",
+    "powerAfter": "250",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H9",
+    "year": "2017-…",
+    "engine": "2.0 245",
+    "power": "245",
+    "torque": "350",
+    "powerAfter": "280",
+    "torqueAfter": "470"
+  },
+  {
+    "make": "HAVAL",
+    "model": "M6",
+    "year": "2021-…",
+    "engine": "1.5t 143",
+    "power": "143",
+    "torque": "210",
+    "powerAfter": "185",
+    "torqueAfter": "270"
+  },
+  {
+    "make": "HAVAL",
+    "model": "F7 NEW",
+    "year": "2024-…",
+    "engine": "1.5 150",
+    "power": "150",
+    "torque": "230",
+    "powerAfter": "190",
+    "torqueAfter": "285"
+  },
+  {
+    "make": "HAVAL",
+    "model": "F7 NEW",
+    "year": "2024-…",
+    "engine": "2.0 192",
+    "power": "192",
+    "torque": "320",
+    "powerAfter": "250",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H3",
+    "year": "2024-…",
+    "engine": "1.5 143",
+    "power": "143",
+    "torque": "210",
+    "powerAfter": "185",
+    "torqueAfter": "270"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H3",
+    "year": "2024-…",
+    "engine": "1.5 177",
+    "power": "177",
+    "torque": "270",
+    "powerAfter": "200",
+    "torqueAfter": "325"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H5",
+    "year": "2024-…",
+    "engine": "2.0t 150",
+    "power": "150",
+    "torque": "400",
+    "powerAfter": "180",
+    "torqueAfter": "460"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H5",
+    "year": "2024-…",
+    "engine": "2.0 200",
+    "power": "200",
+    "torque": "380",
+    "powerAfter": "250",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H6",
+    "year": "2013-2020",
+    "engine": "1.5t 143",
+    "power": "143",
+    "torque": "210",
+    "powerAfter": "185",
+    "torqueAfter": "270"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H7",
+    "year": "2023-…",
+    "engine": "2.0t 192",
+    "power": "192",
+    "torque": "320",
+    "powerAfter": "250",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "HAVAL",
+    "model": "H9 NEW",
+    "year": "2024-…",
+    "engine": "2.0 218",
+    "power": "218",
+    "torque": "380",
+    "powerAfter": "250",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "HAVAL",
+    "model": "GWM Poer",
+    "year": "2021-…",
+    "engine": "2.0d 150",
+    "power": "150",
+    "torque": "400",
+    "powerAfter": "190",
+    "torqueAfter": "480"
+  },
+  {
+    "make": "HAVAL",
+    "model": "GWM Poer",
+    "year": "2023-…",
+    "engine": "2.0t 218",
+    "power": "218",
+    "torque": "380",
+    "powerAfter": "250",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": "2010-2017",
+    "engine": "1.6 Diesel 128",
+    "power": "128",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "325"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": "2016-…",
+    "engine": "1.4 Diesel 90",
+    "power": "90",
+    "torque": "220",
+    "powerAfter": "120",
+    "torqueAfter": "290"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": "2016-…",
+    "engine": "1.6 Diesel 128",
+    "power": "128",
+    "torque": "260",
+    "powerAfter": "160",
+    "torqueAfter": "325"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2010-…",
+    "engine": "1.6 128",
+    "power": "128",
+    "torque": "155",
+    "powerAfter": "140",
+    "torqueAfter": "170"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2010-…",
+    "engine": "1.6 132",
+    "power": "132",
+    "torque": "158",
+    "powerAfter": "145",
+    "torqueAfter": "175"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": "2010-…",
+    "engine": "1.6 204",
+    "power": "204",
+    "torque": "265",
+    "powerAfter": "225",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Equus",
+    "year": "2009-2016",
+    "engine": "3.8 334",
+    "power": "334",
+    "torque": "395",
+    "powerAfter": "350",
+    "torqueAfter": "415"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Equus",
+    "year": "2009-2016",
+    "engine": "4.6 373",
+    "power": "373",
+    "torque": "451",
+    "powerAfter": "390",
+    "torqueAfter": "475"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Genesis Coupe",
+    "year": "2009-2016",
+    "engine": "2.0 210",
+    "power": "210",
+    "torque": "300",
+    "powerAfter": "245",
+    "torqueAfter": "370"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Genesis Coupe",
+    "year": "2009-2016",
+    "engine": "2.0 250",
+    "power": "250",
+    "torque": "370",
+    "powerAfter": "280",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Getz",
+    "year": "2005-2011",
+    "engine": "1.5 Diesel 88",
+    "power": "88",
+    "torque": "215",
+    "powerAfter": "105",
+    "torqueAfter": "250"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Getz",
+    "year": "2005-2011",
+    "engine": "1.5 Diesel 110",
+    "power": "110",
+    "torque": "235",
+    "powerAfter": "135",
+    "torqueAfter": "285"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Grand Starex",
+    "year": "2015-…",
+    "engine": "2.5 Diesel 175",
+    "power": "175",
+    "torque": "450",
+    "powerAfter": "210",
+    "torqueAfter": "520"
+  },
+  {
+    "make": "Hyundai",
+    "model": "H-1",
+    "year": "2015-…",
+    "engine": "2.5 Diesel 170",
+    "power": "170",
+    "torque": "440",
+    "powerAfter": "205",
+    "torqueAfter": "515"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2010-2016",
+    "engine": "1.6 186",
+    "power": "186",
+    "torque": "265",
+    "powerAfter": "220",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2010-2016",
+    "engine": "1.4 Diesel 90",
+    "power": "90",
+    "torque": "220",
+    "powerAfter": "125",
+    "torqueAfter": "285"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2010-2016",
+    "engine": "1.6 Diesel 110",
+    "power": "110",
+    "torque": "280",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2010-2016",
+    "engine": "1.6 Diesel 136",
+    "power": "136",
+    "torque": "300",
+    "powerAfter": "160",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2017-…",
+    "engine": "1.0 120",
+    "power": "120",
+    "torque": "171",
+    "powerAfter": "140",
+    "torqueAfter": "230"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2017-…",
+    "engine": "1.4 140",
+    "power": "140",
+    "torque": "242",
+    "powerAfter": "170",
+    "torqueAfter": "285"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2017-…",
+    "engine": "1.6 Diesel 110",
+    "power": "110",
+    "torque": "280",
+    "powerAfter": "145",
+    "torqueAfter": "320"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30",
+    "year": "2017-…",
+    "engine": "1.6 Diesel 136",
+    "power": "136",
+    "torque": "300",
+    "powerAfter": "160",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30 N",
+    "year": "2017-…",
+    "engine": "2.0 249",
+    "power": "249",
+    "torque": "353",
+    "powerAfter": "300",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i30 N",
+    "year": "2017-…",
+    "engine": "2.0 275",
+    "power": "275",
+    "torque": "353",
+    "powerAfter": "300",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i40",
+    "year": "2011-…",
+    "engine": "1.7 Diesel 115",
+    "power": "115",
+    "torque": "260",
+    "powerAfter": "150",
+    "torqueAfter": "310"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i40",
+    "year": "2011-…",
+    "engine": "1.7 Diesel 136",
+    "power": "136",
+    "torque": "324",
+    "powerAfter": "168",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Hyundai",
+    "model": "i40",
+    "year": "2011-…",
+    "engine": "1.7 Diesel 141",
+    "power": "141",
+    "torque": "340",
+    "powerAfter": "168",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Hyundai",
+    "model": "ix35",
+    "year": "2010-2015",
+    "engine": "2.0 Diesel 136",
+    "power": "136",
+    "torque": "320",
+    "powerAfter": "175",
+    "torqueAfter": "410"
+  },
+  {
+    "make": "Hyundai",
+    "model": "ix35",
+    "year": "2010-2015",
+    "engine": "2.0 Diesel 184",
+    "power": "184",
+    "torque": "392",
+    "powerAfter": "210",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Hyundai",
+    "model": "ix55",
+    "year": "2008-2013",
+    "engine": "3.0 Diesel 239",
+    "power": "239",
+    "torque": "450",
+    "powerAfter": "280",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "Hyundai",
+    "model": "ix55",
+    "year": "2008-2013",
+    "engine": "3.0 Diesel 250",
+    "power": "250",
+    "torque": "475",
+    "powerAfter": "280",
+    "torqueAfter": "530"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2012-2015",
+    "engine": "2.2 Diesel 197",
+    "power": "197",
+    "torque": "436",
+    "powerAfter": "230",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": "2015-…",
+    "engine": "2.2 Diesel 200",
+    "power": "200",
+    "torque": "440",
+    "powerAfter": "235",
+    "torqueAfter": "510"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": "2016-…",
+    "engine": "1.6 177",
+    "power": "177",
+    "torque": "265",
+    "powerAfter": "215",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": "2016-…",
+    "engine": "1.6 180",
+    "power": "180",
+    "torque": "265",
+    "powerAfter": "215",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": "2016-…",
+    "engine": "2.0 245",
+    "power": "245",
+    "torque": "353",
+    "powerAfter": "290",
+    "torqueAfter": "420"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": "2016-…",
+    "engine": "1.7 Diesel 141",
+    "power": "141",
+    "torque": "340",
+    "powerAfter": "168",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "2015-…",
+    "engine": "1.6 177",
+    "power": "177",
+    "torque": "265",
+    "powerAfter": "220",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "2015-…",
+    "engine": "1.7 Diesel 115",
+    "power": "115",
+    "torque": "260",
+    "powerAfter": "150",
+    "torqueAfter": "310"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "2015-…",
+    "engine": "1.7 Diesel 141",
+    "power": "141",
+    "torque": "340",
+    "powerAfter": "168",
+    "torqueAfter": "380"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 136",
+    "power": "136",
+    "torque": "373",
+    "powerAfter": "170",
+    "torqueAfter": "425"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 185",
+    "power": "185",
+    "torque": "400",
+    "powerAfter": "205",
+    "torqueAfter": "445"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": "2011-…",
+    "engine": "1.6 132",
+    "power": "132",
+    "torque": "158",
+    "powerAfter": "145",
+    "torqueAfter": "175"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": "2011-…",
+    "engine": "1.6 140",
+    "power": "140",
+    "torque": "167",
+    "powerAfter": "155",
+    "torqueAfter": "185"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": "2011-…",
+    "engine": "1.6 186",
+    "power": "186",
+    "torque": "265",
+    "powerAfter": "220",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": "2011-…",
+    "engine": "1.6 204",
+    "power": "204",
+    "torque": "265",
+    "powerAfter": "225",
+    "torqueAfter": "330"
+  },
+  {
+    "make": "JAECOO",
+    "model": "J7",
+    "year": "2023-…",
+    "engine": "1.5t 147",
+    "power": "147",
+    "torque": "210",
+    "powerAfter": "180",
+    "torqueAfter": "245"
+  },
+  {
+    "make": "JAECOO",
+    "model": "J7",
+    "year": "2023-…",
+    "engine": "1.6t 150",
+    "power": "150",
+    "torque": "275",
+    "powerAfter": "221",
+    "torqueAfter": "345"
+  },
+  {
+    "make": "JAECOO",
+    "model": "J7",
+    "year": "2023-…",
+    "engine": "1.6t 186",
+    "power": "186",
+    "torque": "275",
+    "powerAfter": "221",
+    "torqueAfter": "345"
+  },
+  {
+    "make": "JAECOO",
+    "model": "J8",
+    "year": "2024-…",
+    "engine": "2.0 249",
+    "power": "249",
+    "torque": "385",
+    "powerAfter": "280",
+    "torqueAfter": "470"
+  },
+  {
+    "make": "JAC",
+    "model": "T6",
+    "year": "2018-2019",
+    "engine": "2.0 190",
+    "power": "190",
+    "torque": "290",
+    "powerAfter": "229",
+    "torqueAfter": "350"
+  },
+  {
+    "make": "JAC",
+    "model": "T9",
+    "year": "2024-…",
+    "engine": "2.0 224",
+    "power": "224",
+    "torque": "390",
+    "powerAfter": "263",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "3.0 380",
+    "power": "380",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "2.0 Diesel 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "2.0 Diesel 180",
+    "power": "180",
+    "torque": "430",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "2.0 Diesel 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "260",
+    "torqueAfter": "550"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": "2016-…",
+    "engine": "3.0 Diesel 300",
+    "power": "300",
+    "torque": "700",
+    "powerAfter": "335",
+    "torqueAfter": "755"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2013-2017",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2013-2017",
+    "engine": "3.0 380",
+    "power": "380",
+    "torque": "460",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2013-2017",
+    "engine": "5.0 550",
+    "power": "550",
+    "torque": "680",
+    "powerAfter": "580",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2013-2017",
+    "engine": "5.0 575",
+    "power": "575",
+    "torque": "700",
+    "powerAfter": "600",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2017-…",
+    "engine": "2.0 300",
+    "power": "300",
+    "torque": "400",
+    "powerAfter": "320",
+    "torqueAfter": "450"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2017-…",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2017-…",
+    "engine": "3.0 380",
+    "power": "380",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2017-…",
+    "engine": "5.0 550",
+    "power": "550",
+    "torque": "680",
+    "powerAfter": "580",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": "2017-…",
+    "engine": "5.0 575",
+    "power": "575",
+    "torque": "700",
+    "powerAfter": "600",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2015-…",
+    "engine": "2.0 200",
+    "power": "200",
+    "torque": "320",
+    "powerAfter": "245",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2015-…",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2015-…",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 180",
+    "power": "180",
+    "torque": "430",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "5.0 385",
+    "power": "385",
+    "torque": "515",
+    "powerAfter": "410",
+    "torqueAfter": "540"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "5.0 510",
+    "power": "510",
+    "torque": "625",
+    "powerAfter": "560",
+    "torqueAfter": "680"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "2.2 Diesel 163",
+    "power": "163",
+    "torque": "400",
+    "powerAfter": "220",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "2.2 Diesel 200",
+    "power": "200",
+    "torque": "450",
+    "powerAfter": "220",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "3.0 Diesel 240",
+    "power": "240",
+    "torque": "500",
+    "powerAfter": "295",
+    "torqueAfter": "580"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2007-2015",
+    "engine": "3.0 Diesel 275",
+    "power": "275",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "2.0 200",
+    "power": "200",
+    "torque": "320",
+    "powerAfter": "245",
+    "torqueAfter": "400"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "3.0 380",
+    "power": "380",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 163",
+    "power": "163",
+    "torque": "380",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "2.0 Diesel 180",
+    "power": "180",
+    "torque": "430",
+    "powerAfter": "210",
+    "torqueAfter": "490"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": "2015-…",
+    "engine": "3.0 Diesel 300",
+    "power": "300",
+    "torque": "700",
+    "powerAfter": "335",
+    "torqueAfter": "755"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2009-2015",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2009-2015",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2009-2015",
+    "engine": "5.0 385",
+    "power": "385",
+    "torque": "515",
+    "powerAfter": "410",
+    "torqueAfter": "540"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2009-2015",
+    "engine": "5.0 510",
+    "power": "510",
+    "torque": "625",
+    "powerAfter": "560",
+    "torqueAfter": "680"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2009-2015",
+    "engine": "3.0 Diesel 275",
+    "power": "275",
+    "torque": "600",
+    "powerAfter": "320",
+    "torqueAfter": "650"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2015-…",
+    "engine": "2.0 240",
+    "power": "240",
+    "torque": "340",
+    "powerAfter": "270",
+    "torqueAfter": "430"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2015-…",
+    "engine": "3.0 340",
+    "power": "340",
+    "torque": "450",
+    "powerAfter": "400",
+    "torqueAfter": "500"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2015-…",
+    "engine": "5.0 550",
+    "power": "550",
+    "torque": "680",
+    "powerAfter": "580",
+    "torqueAfter": "710"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2015-…",
+    "engine": "5.0 575",
+    "power": "575",
+    "torque": "700",
+    "powerAfter": "600",
+    "torqueAfter": "720"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": "2015-…",
+    "engine": "3.0 Diesel 300",
+    "power": "300",
+    "torque": "700",
+    "powerAfter": "335",
+    "torqueAfter": "775"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK",
+    "year": "2009-2014",
+    "engine": "5.0 385",
+    "power": "385",
+    "torque": "515",
+    "powerAfter": "410",
+    "torqueAfter": "540"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK",
+    "year": "2009-2014",
+    "engine": "5.0 510",
+    "power": "510",
+    "torque": "625",
+    "powerAfter": "560",
+    "torqueAfter": "680"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK",
+    "year": "2009-2014",
+    "engine": "5.0 550",
+    "power": "550",
+    "torque": "680",
+    "powerAfter": "580",
+    "torqueAfter": "710"
   }
 ]
